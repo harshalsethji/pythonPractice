@@ -1,4 +1,4 @@
 # pythonPractice
 Python Practice problems:
 
-1. tic-tack-toe
+1. tic-tac-toe
